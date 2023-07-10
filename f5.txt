@@ -1,1 +1,2 @@
 Hello friends , welcome to git practices!!!
+Hello friends, Welcome to DevOps classes, Start date 12th July evening at 7:30PM
