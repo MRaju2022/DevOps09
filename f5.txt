@@ -1,2 +1,13 @@
 Hello friends , welcome to git practices!!!
 Hello friends, Welcome to DevOps classes, Start date 12th July evening at 7:30PM
+In this batch I will cover below things
+Linux
+Shellscript
+AWS (20 servicers)
+DevOps (15 tools)
+Realtime project
+Python Scripting
+Resume preparation
+Interview Guide
+Job support
+etc...
